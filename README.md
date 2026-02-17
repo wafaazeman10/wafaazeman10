@@ -8,7 +8,7 @@ I’m passionate about turning raw data into meaningful insights. My background 
 
 Recently, I completed a SQL certification and I’m currently building hands-on data analytics projects using:
 
-- SQL (MySQL)
+- SQL
 - Power BI
 - Excel
 
