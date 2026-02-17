@@ -33,4 +33,4 @@ Recently, I completed a SQL certification and I’m currently building hands-on 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/wafa-azeman-69150693/)
-- [Email])wafaazeman@gmail.com)
+- [Email](wafaazeman@gmail.com)
