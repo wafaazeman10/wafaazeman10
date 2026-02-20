@@ -11,6 +11,7 @@ Recently, I completed a SQL certification and I’m currently building hands-on 
 - SQL
 - Power BI
 - Excel
+- R
 
 ---
 
