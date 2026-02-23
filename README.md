@@ -22,13 +22,13 @@ Below are my key data analytics projects. Each project includes a brief summary 
 🔗 View Project Repository:
 [https://github.com/wafaazeman10/aeromonas-amr-analysis]
 
-Brief Description:
+- Brief Description:
 A statistical analysis of antimicrobial resistance (AMR) patterns in Aeromonas species isolated from clinical specimens in Malaysia (2014–2020). The project examines resistance across antibiotic classes, specimen types, and bacterial species using exploratory data analysis and Generalized Linear Models (GLM).
 
-Tools & Skills Used:
+- Tools & Skills Used:
 Microsoft Excel, Data Cleaning, Exploratory Data Analysis (EDA), Statistical Modelling (GLM), R/RStudio, Data Visualization, Research Analysis, GitHub Documentation.
 
-Project Goals:
+- Project Goals:
 To identify high-resistance antibiotic classes, compare resistance profiles among Aeromonas species, and determine significant predictors of antimicrobial resistance to support evidence-based clinical and public health decision-making.
 
 ## 💡 Technical Skills
