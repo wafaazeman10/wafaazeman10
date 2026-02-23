@@ -30,7 +30,7 @@ Microsoft Excel, Data Cleaning, Exploratory Data Analysis (EDA), Statistical Mod
 
 - Project Goals:
 To identify high-resistance antibiotic classes, compare resistance profiles among Aeromonas species, and determine significant predictors of antimicrobial resistance to support evidence-based clinical and public health decision-making.
-
+---
 ## 💡 Technical Skills
 
 **Languages:** SQL, R, Python  
@@ -41,6 +41,7 @@ To identify high-resistance antibiotic classes, compare resistance profiles amon
 ## Certification
 [Data Analyst Associate Certification – DataCamp](https://www.datacamp.com/certificate/DAA0019370582024) 
 
+---
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/wafa-azeman-69150693/)
