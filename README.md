@@ -33,7 +33,7 @@ To identify high-resistance antibiotic classes, compare resistance profiles amon
 
 ### 2. Customer Shopping Behavior Analysis
 
-🔗 View Project Repository: [https://github.com/wafaazeman10/customer-shopping-behavior]
+🔗 View Project Repository: [https://github.com/wafaazeman10/customer_behaviour_analysis]
 
 - **Brief Description:** An end-to-end data analytics project analyzing transactional data from 3,900 customer purchases across multiple product categories. The project covers the full analytics pipeline — from data cleaning and exploratory analysis in Python, to structured SQL querying in PostgreSQL, and visual storytelling through a Power BI dashboard and a Gamma presentation.
 - **Tools & Skills Used:** Python (pandas), PostgreSQL, Power BI, Gamma, Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, SQL Querying, Dashboard Development, GitHub Documentation.
