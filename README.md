@@ -30,6 +30,21 @@ Microsoft Excel, Data Cleaning, Exploratory Data Analysis (EDA), Statistical Mod
 
 - Project Goals:
 To identify high-resistance antibiotic classes, compare resistance profiles among Aeromonas species, and determine significant predictors of antimicrobial resistance to support evidence-based clinical and public health decision-making.
+
+### 2. Customer Shopping Behavior Analysis
+
+🔗 View Project Repository: [https://github.com/wafaazeman10/customer-shopping-behavior]
+
+- **Brief Description:** An end-to-end data analytics project analyzing transactional data from 3,900 customer purchases across multiple product categories. The project covers the full analytics pipeline — from data cleaning and exploratory analysis in Python, to structured SQL querying in PostgreSQL, and visual storytelling through a Power BI dashboard and a Gamma presentation.
+- **Tools & Skills Used:** Python (pandas), PostgreSQL, Power BI, Gamma, Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, SQL Querying, Dashboard Development, GitHub Documentation.
+- **Project Goals:** To uncover patterns in customer spending, segment shoppers into loyalty tiers, identify discount-dependent products, and surface actionable recommendations around subscription growth, targeted marketing, and product positioning.
+- **Key Results:**
+  - Male customers generated 2× the revenue of female customers ($157,890 vs. $75,191)
+  - 80% of the customer base classified as Loyal; only 27% are subscribers — a growth opportunity
+  - Young Adults led all age groups in total revenue ($62,143)
+  - Express shipping users showed a higher average spend, indicating a premium customer segment
+  - 839 customers used discounts yet still spent above the average purchase amount
+
 ---
 ## 💡 Technical Skills
 
